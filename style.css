@@ -924,7 +924,7 @@ div#slider figure {
     }
 
     .products img {
-        width: 140px;
+        width: 148px;
         max-height: 100%;
     }
 
@@ -964,6 +964,7 @@ div#slider figure {
 
     .pro-name h4 {
         font-size: 20px;
+        line-height: 10px;
     }
 
     .pro-name p {
